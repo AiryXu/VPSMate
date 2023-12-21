@@ -7,7 +7,9 @@ This is special edition (fork) of VPSMate with many features not existing on VPS
 
     curl -O https://raw.githubusercontent.com/zjhch123/VPSMate/master/install.py
     python install.py
+    
 or
+    
     curl -O https://raw.githubusercontent.com/AiryXu/VPSMate/master/install.py
     
     python install.py
