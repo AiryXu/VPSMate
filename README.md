@@ -9,6 +9,7 @@ This is special edition (fork) of VPSMate with many features not existing on VPS
     python install.py
 or
     curl -O https://raw.githubusercontent.com/AiryXu/VPSMate/master/install.py
+    
     python install.py
 
 #### UnInstall
